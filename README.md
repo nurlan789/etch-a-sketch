@@ -1,1 +1,1 @@
-etch-a-sketch game with HTML, CSS and JavaScript.
+[Etch-a-sketch](https://nurlan789.github.io/etch-a-sketch/) game with HTML, CSS and JavaScript.
